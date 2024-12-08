@@ -1,0 +1,55 @@
+.Banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border: 2px solid black;
+    width: 800px;
+}
+td {
+    border: 2px solid black;
+}
+.input1 {
+    margin-right: 5px;
+    border: none;
+    background-color: rgb(206, 204, 204);
+}
+.input1:active {
+    border: none;
+}
+.button1 {
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(243, 12, 12);
+}
+
+.button2 {
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(8, 163, 8);
+}
+
+.button3 {
+    margin-left: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(67, 8, 163);
+}
+
+.button4 {
+    margin-bottom: 10px;
+}
